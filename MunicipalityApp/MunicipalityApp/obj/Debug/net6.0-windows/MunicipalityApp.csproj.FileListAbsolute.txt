@@ -1,0 +1,66 @@
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.exe
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.deps.json
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.runtimeconfig.json
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.pdb
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.MainMenuForm.resources
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.ReportIssuesForm.resources
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.AssemblyInfo.cs
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\refint\MunicipalityApp.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.pdb
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.genruntimeconfig.cache
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\ref\MunicipalityApp.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\User\source\repos\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.CopyComplete
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.exe
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.deps.json
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.runtimeconfig.json
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.dll
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.pdb
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\System.Management.dll
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.AssemblyReference.cache
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.MainMenuForm.resources
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.ReportIssuesForm.resources
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.GenerateResource.cache
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.AssemblyInfoInputs.cache
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.AssemblyInfo.cs
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.CoreCompileInputs.cache
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.CopyComplete
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.dll
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\refint\MunicipalityApp.dll
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.pdb
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.genruntimeconfig.cache
+C:\users\user\Desktop\ST10082134_PROG_7312\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\ref\MunicipalityApp.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.exe
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.deps.json
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.runtimeconfig.json
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\MunicipalityApp.pdb
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.MainMenuForm.resources
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.ReportIssuesForm.resources
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.AssemblyInfo.cs
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.csproj.CopyComplete
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\refint\MunicipalityApp.dll
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.pdb
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\MunicipalityApp.genruntimeconfig.cache
+C:\Users\User\Desktop\ST10082134_Kailuha Michalakis_PROG7312_POE_PART1\MunicipalityApp\MunicipalityApp\obj\Debug\net6.0-windows\ref\MunicipalityApp.dll
