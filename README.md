@@ -46,7 +46,7 @@ Visual Studio 2022 (or newer)
 Run the App
 Download/Clone the project to your local machine. You can do this by running:
 
-git clone https://github.com/your-repo/MunicipalityApp.git
+git clone https://github.com/ThatWeaselDev/PROG3BP1.git
 
 Open the solution: Double-click the MunicipalityApp.sln file, or open it from Visual Studio (File -> Open -> Project/Solution).
 
